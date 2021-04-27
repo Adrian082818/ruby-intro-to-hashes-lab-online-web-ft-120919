@@ -2,7 +2,9 @@ def new_hash
 hash = {}
 end
 
-
+def new_hash
+hash = {actor}
+end
 
 
 
