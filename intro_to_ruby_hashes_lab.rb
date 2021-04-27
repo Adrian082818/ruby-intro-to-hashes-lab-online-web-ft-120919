@@ -3,7 +3,7 @@ hash = {}
 end
 
 def new_hash
-hash = {actor}
+actor = {}
 end
 
 
